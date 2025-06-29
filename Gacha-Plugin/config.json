@@ -1,0 +1,43 @@
+{
+    "wuwa": {
+        "enable": true,
+        "up_characters_5": [
+            "卡提希娅"
+        ],
+        "up_characters_4": [
+            "秋水",
+            "白芷",
+            "釉瑚"
+        ],
+        "up_weapons_5": [
+            "不屈命定之冠"
+        ],
+        "up_weapons_4": [
+            "永续坍缩",
+            "呼啸重音",
+            "袍泽之固"
+        ],
+        "block_users": [
+            123456789
+        ],
+        "block_groups": [
+            987654321
+        ],
+        "gacha_rates": {
+            "character_5": 0.006,
+            "character_4": 0.051,
+            "character_3": 0.943,
+            "weapon_5": 0.007,
+            "weapon_4": 0.06,
+            "weapon_3": 0.933,
+            "up_character_5_rate": 0.5,
+            "up_character_4_rate": 0.5,
+            "up_weapon_5_rate": 0.75,
+            "up_weapon_4_rate": 0.75,
+            "pity_5": 80,
+            "pity_4": 10,
+            "soft_pity_5": 65,
+            "soft_pity_4": 8
+        }
+    }
+}
